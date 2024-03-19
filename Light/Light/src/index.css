@@ -1,0 +1,84 @@
+ .App{
+  background-color: rgb(223, 234, 234);
+  height: 400px;
+  width: 800px;
+ 
+ 
+ margin: 60px;
+   
+ }
+   .label1{
+    margin-left:  30px;
+  
+   }
+
+    .label2{
+      margin-left:  264px;
+   }
+   .input1{
+    margin-left:  30px;
+    width: 300px;
+    height: 30px;
+   }
+   .input2{
+    margin-left:  30px;
+    width: 300px;
+  height: 30px;}
+    .note{
+      text-align: center;
+      background-color:  rgb(163, 191, 191);
+    }
+   .para{
+    margin-left: 30px;
+     opacity: 0.5;
+    
+   }
+   .radioOption {
+    display: inline-block;
+   
+    
+  }
+   .input3{
+    margin-left:  30px;
+    width: 300px;
+    height: 30px;
+  
+   }
+   
+   .input4{
+    
+    margin-left:  30px;
+    width: 300px;
+    height: 30px;
+   } 
+   .input5{
+    
+    margin-left:  30px;
+    
+   } 
+   .input6{
+    
+    margin-left:  30px;
+   
+   } 
+   .superr{
+       display: block;
+ margin-left: 200px;
+ margin-top: 40px;
+    }
+    .sup{
+      margin-left: 200px;
+      width: 300px;
+      height: 40px;
+      margin-top: 5px;
+      
+    }
+    .but{
+      background-color: rgb(194, 221, 221);
+      margin-left: 330px;
+      margin-top: 30px;
+      padding: 10px;
+      border: none;
+    }
+    
+   
